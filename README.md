@@ -1,4 +1,8 @@
 # Dashcam Search System
+![Project Logo](video-search-system/motive.png)
+
+
+
 
 
 
