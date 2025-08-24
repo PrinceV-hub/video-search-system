@@ -1,6 +1,6 @@
 # Dashcam Search System
 
-![Pipeline Diagram](diagrams/pipeline.png)
+
 
 A modular pipeline for semantic search over dashcam video features using AWS S3, Bedrock Claude, and Sentence Transformers.
 
