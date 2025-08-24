@@ -1,0 +1,6 @@
+boto3
+sentence-transformers
+pandas
+numpy
+scikit-learn
+tqdm

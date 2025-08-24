@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
+*.env
+.env*
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+video_index.pkl
+hackathon_submission.csv
